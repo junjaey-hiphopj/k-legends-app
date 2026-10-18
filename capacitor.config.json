@@ -1,0 +1,7 @@
+{
+  "appId": "kr.moneylab.klegends",
+  "appName": "K-Legends 함께",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "plugins": { "AdMob": {} }
+}
